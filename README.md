@@ -3,3 +3,6 @@
 Project Time Line at https://docs.google.com/spreadsheets/d/1C9tHAqHcQ04lrc3ePNUpeKVcS_wLLGfXRhHf7IRZn9U/edit#gid=623239217
 
 Update1 - Segmentation algorithm is working. I generated a simple 600x450 jpg image with random symbols and numbers. The segment.py is able to identify each symbol. The segments are then saved to an pickle file.
+
+
+Update2- The Classifier finally ran using the dataset. The results were pretty bad, the loss went up and accuracy went down. 
